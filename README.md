@@ -1,2 +1,5 @@
 # happy-gitting
-Try out git and all that
+Tary out git and all that
+
+hi
+what ever
